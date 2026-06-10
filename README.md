@@ -29,6 +29,9 @@ This repository captures core GitHub collaboration practices across the developm
 5. Complete code review and approvals.
 6. Merge and clean up the branch.
 
+## Project Modules
+- **SQL Schema & Queries**: Relational models, transaction handling, and performance indexing in [sql-docs.md](docs/sql-docs.md).
+
 ## References
 - https://docs.github.com/en/get-started/start-your-journey/hello-world
 - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
