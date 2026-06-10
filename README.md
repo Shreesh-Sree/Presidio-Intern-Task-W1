@@ -33,6 +33,7 @@ This repository captures core GitHub collaboration practices across the developm
 - **DSA Analytics**: Detailed documentation on developer metric counters and folder traversal recursion in [dsa-docs.md](docs/dsa-docs.md).
 - **SQL Schema & Queries**: Relational models, transaction handling, and performance indexing in [sql-docs.md](docs/sql-docs.md).
 - **System Design**: Real-time webhook ingestion pipelines, Redis cache deduplication, and database replicas in [system-design-docs.md](docs/system-design-docs.md).
+- **SDLC**: Agile Scrum framework, backlog user stories, and weekly reflection notes in [sdlc-docs.md](docs/sdlc-docs.md).
 
 ## References
 - https://docs.github.com/en/get-started/start-your-journey/hello-world
