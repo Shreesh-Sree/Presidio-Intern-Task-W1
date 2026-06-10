@@ -30,6 +30,7 @@ This repository captures core GitHub collaboration practices across the developm
 6. Merge and clean up the branch.
 
 ## Project Modules
+- **DSA Analytics**: Detailed documentation on developer metric counters and folder traversal recursion in [dsa-docs.md](docs/dsa-docs.md).
 - **SQL Schema & Queries**: Relational models, transaction handling, and performance indexing in [sql-docs.md](docs/sql-docs.md).
 
 ## References
